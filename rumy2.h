@@ -1,0 +1,1 @@
+void dej_mi_dva(void);
